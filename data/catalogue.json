@@ -1,0 +1,398 @@
+[
+  {
+    "id": "austen-darcy",
+    "type": "literary",
+    "text": "You must allow me to tell you how ardently I admire and love you.",
+    "author": "Jane Austen",
+    "work": "Pride and Prejudice",
+    "year": "1813",
+    "location": "Chapter 34",
+    "mood": [
+      "Passionate declaration",
+      "Longing"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Pride and Prejudice",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Spoken by Mr Darcy during his first proposal; check wording against your chosen edition."
+  },
+  {
+    "id": "austen-pride",
+    "type": "literary",
+    "text": "I could easily forgive his pride, if he had not mortified mine.",
+    "author": "Jane Austen",
+    "work": "Pride and Prejudice",
+    "year": "1813",
+    "location": "Chapter 5",
+    "mood": [
+      "Wit",
+      "Flirtation"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Pride and Prejudice",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/1342",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Elizabeth Bennet's sharp observation; verify the chapter in the chosen edition."
+  },
+  {
+    "id": "bronte-souls",
+    "type": "literary",
+    "text": "Whatever our souls are made of, his and mine are the same.",
+    "author": "Emily Brontë",
+    "work": "Wuthering Heights",
+    "year": "1847",
+    "location": "Chapter 9",
+    "mood": [
+      "Soulful connection",
+      "Yearning"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Wuthering Heights",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/768",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Catherine describes her profound bond with Heathcliff; verify exact wording."
+  },
+  {
+    "id": "shakespeare-116",
+    "type": "literary",
+    "text": "Love is not love which alters when it alteration finds.",
+    "author": "William Shakespeare",
+    "work": "Sonnet 116",
+    "year": "1609",
+    "location": "Line 2",
+    "mood": [
+      "Devotion",
+      "Timeless love"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Sonnet 116",
+    "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/116/",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Verify punctuation and lineation against the linked edition."
+  },
+  {
+    "id": "browning-43",
+    "type": "literary",
+    "text": "How do I love thee? Let me count the ways.",
+    "author": "Elizabeth Barrett Browning",
+    "work": "Sonnets from the Portuguese",
+    "year": "1850",
+    "location": "Sonnet 43",
+    "mood": [
+      "Devotion",
+      "Tenderness"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Sonnets from the Portuguese",
+    "sourceUrl": "https://www.poetryfoundation.org/poets/elizabeth-barrett-browning",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Opening line of Sonnet 43; check the selected edition."
+  },
+  {
+    "id": "marlowe-hero",
+    "type": "literary",
+    "text": "Who ever loved, that loved not at first sight?",
+    "author": "Christopher Marlowe",
+    "work": "Hero and Leander",
+    "year": "1598",
+    "location": "Sestiad I",
+    "mood": [
+      "Instant attraction",
+      "Flirtation"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Hero and Leander",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/779",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "A famous question about sudden attraction; verify punctuation."
+  },
+  {
+    "id": "marlowe-shepherd",
+    "type": "literary",
+    "text": "Come live with me, and be my love.",
+    "author": "Christopher Marlowe",
+    "work": "The Passionate Shepherd to His Love",
+    "year": "1599",
+    "location": "Opening line",
+    "mood": [
+      "Invitation",
+      "Romance"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — The Passionate Shepherd to His Love",
+    "sourceUrl": "https://www.poetryfoundation.org/poets/christopher-marlowe",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Verify the poem text and edition before publication."
+  },
+  {
+    "id": "shakespeare-juliet",
+    "type": "literary",
+    "text": "My bounty is as boundless as the sea, my love as deep.",
+    "author": "William Shakespeare",
+    "work": "Romeo and Juliet",
+    "year": "1597",
+    "location": "Act 2, Scene 2",
+    "mood": [
+      "Passionate declaration",
+      "Devotion"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Romeo and Juliet",
+    "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Juliet speaks of love as inexhaustible; verify the full line."
+  },
+  {
+    "id": "austen-emma",
+    "type": "literary",
+    "text": "If I loved you less, I might be able to talk about it more.",
+    "author": "Jane Austen",
+    "work": "Emma",
+    "year": "1815",
+    "location": "Volume III, Chapter 13",
+    "mood": [
+      "Understated desire",
+      "Wit"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Emma",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/158",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "A restrained declaration; verify wording and chapter in the selected edition."
+  },
+  {
+    "id": "shakespeare-18",
+    "type": "literary",
+    "text": "So long as men can breathe or eyes can see, so long lives this, and this gives life to thee.",
+    "author": "William Shakespeare",
+    "work": "Sonnet 18",
+    "year": "1609",
+    "location": "Lines 13–14",
+    "mood": [
+      "Eternity",
+      "Admiration"
+    ],
+    "intensity": 3,
+    "sourceTitle": "Source reference — Sonnet 18",
+    "sourceUrl": "https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/18/",
+    "verification": "Source work identified; exact wording and location should be checked against the linked edition before publication.",
+    "notes": "Closing couplet; verify punctuation and lineation."
+  },
+  {
+    "id": "original-001",
+    "type": "original",
+    "text": "Come closer; I want this moment to forget the rest of the world.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Subtle seduction",
+      "Intimacy"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-002",
+    "type": "original",
+    "text": "Your smile makes an ordinary room feel like a secret meant for two.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Flirtation",
+      "Tenderness"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-003",
+    "type": "original",
+    "text": "I was trying to think of something clever, and then you looked at me.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Wit",
+      "Flirtation"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-004",
+    "type": "original",
+    "text": "There is a kind of silence that says everything the heart is too shy to say.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Longing",
+      "Subtle seduction"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-005",
+    "type": "original",
+    "text": "Stay a little longer; the night has not heard our best stories yet.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Invitation",
+      "Intimacy"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-006",
+    "type": "original",
+    "text": "You have the rare talent of making attention feel like an embrace.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Admiration",
+      "Tenderness"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-007",
+    "type": "original",
+    "text": "I like the way your confidence leaves room for my curiosity.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Admiration",
+      "Flirtation"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-008",
+    "type": "original",
+    "text": "If this is a conversation, I hope we keep losing track of time.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Connection",
+      "Invitation"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-009",
+    "type": "original",
+    "text": "Some glances are brief; the feeling they leave is not.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Yearning",
+      "Subtle seduction"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-010",
+    "type": "original",
+    "text": "Tell me what you love, and let me learn the details that make you you.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Curiosity",
+      "Tenderness"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-011",
+    "type": "original",
+    "text": "You make anticipation feel like its own kind of happiness.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Anticipation",
+      "Yearning"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  },
+  {
+    "id": "original-012",
+    "type": "original",
+    "text": "I would rather have your honest attention than a hundred perfect lines.",
+    "author": "JASS Original",
+    "work": "Modern Expressions",
+    "year": "2026",
+    "location": "Original writing",
+    "mood": [
+      "Authenticity",
+      "Intimacy"
+    ],
+    "intensity": 2,
+    "sourceTitle": "Original expression written for JASS Seductive Quotes Studio",
+    "sourceUrl": "",
+    "verification": "Original JASS writing; not a quotation from a published author.",
+    "notes": "A contemporary, tasteful romantic expression."
+  }
+]
